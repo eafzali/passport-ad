@@ -1,0 +1,8 @@
+{
+    "name": "passport-ad"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "passport": "*"
+  }
+}
